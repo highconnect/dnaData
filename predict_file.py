@@ -2,6 +2,7 @@
 #Sylvain Kritter 15 Sept 2016
 """general parameters and file, directory names"""
 
+
 import os
 import cv2
 import datetime
