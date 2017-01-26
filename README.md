@@ -10,4 +10,4 @@ further details can be made [here](https://http://www.exploredna.co.uk/the-prope
 
 ## Programming needs
 In order to make them rich enough to embed to a programming language, some programming concepts are to be enforced on the DNA RNA concept.
-see the full refrence [here](https://github.com/highconnect/dnaData/tree/master/testData-rna-dna)
+see the full reference [here](https://github.com/highconnect/dnaData/tree/master/testData-rna-dna)
