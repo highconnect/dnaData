@@ -1,22 +1,9 @@
-# README
+# DNA Characteristics
 
 Original work presented in article as below:
 
->"Lung Pattern Classification for Interstitial Lung Diseases Using a Deep Convolutional Neural Network"  
-M. Anthimopoulos, S. Christodoulidis, L. Ebner, A. Christe and S. Mougiakakou  
-IEEE Transactions on Medical Imaging (2016)  
-http://dx.doi.org/10.1109/TMI.2016.2535865
+DNA has a number of special physical and chemical properties that are important to its structure and functioning. While the terms may sound quite foreign and perhaps even complicated, they are significant to our understanding of DNA and its many applications today.
 
-The database used in this project is described by
-
->"Building a reference multimedia database for interstitial lung diseases"
-Adrien Depeursing, Alejandro Vargas, Alexandra Platon, Antoine Geissbuhler, Pierre-Alexandre Poletti, Henning Müller
-University of Applied Sciences Western Switzerland, TechnoArk, Sierre, Switzerland.
-https://www.researchgate.net/publication/51534831_Building_a_reference_multimedia_database_for_interstitial_lung_diseases
-
-The database itself is not included in this repository as it is available only on restrictions.
-
-
-
-
-
+## Physical Properties
+In living organisms such as humans, DNA exists as a pair of molecules rather than a single molecule. These strands are entwined in the shape of a double helix and the helix is kept stable by hydrogen bonds, which can be found between the bases attached to the two strands. A long polymer, DNA is made up of smaller units called nucleotides. In turn, each nucleotide consists of a phosphate group, a sugar and a nitrogenous base. To get a sense of just how long a DNA polymer is, consider that just one human chromosome is several hundred million base pairs long.
+further details can be made [here](https://http://www.exploredna.co.uk/the-properties-dna.html)
