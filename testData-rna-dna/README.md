@@ -37,4 +37,4 @@ This is also a flag element and is measured as percentage named 'rep-complex'. T
 
 The DNA strands are like a phone cable or a rope. This coiling is a central property of DNA. DNA can be in a relaxed or a coiled state. Coiling helps the extremely long DNA strands to fit into the tiny cell nucleus. Put simply, this supercoiling property makes DNA more efficient packing in more information in small spaces. A non programable element denoted as a flag only.
 
-more details on the various properties of DNA can be found here 
+more details on the various properties of DNA can be found [here](https://drive.google.com/file/d/0B45ZhbMxkLiBRTJKY0FGb2FhQnM/view?usp=sharing)
