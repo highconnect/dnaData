@@ -90,6 +90,7 @@ patchtoppath=os.path.join(dirHUG,patchesdirnametop)
 
 
 
+
 dirHUG=os.path.join(dirHUG,subDir)
 
 listHug= [ name for name in os.listdir(dirHUG) if os.path.isdir(os.path.join(dirHUG, name)) and \
