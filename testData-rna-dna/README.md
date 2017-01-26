@@ -1,4 +1,4 @@
 # DNA Characteristics
 
-- DNA Symmetry
+### DNA Symmetry
 We develop methods to measure and characterize symmetry at multiple orders, and analyze a wide set of genomes, encompassing single- and double-stranded RNA and DNA viruses, bacteria, archae, mitochondria, and eukaryota. We quantify symmetry at orders 1 to 9 for contiguous sequences and pools of coding and non-coding upstream regions, compare the observed symmetry levels to those predicted by simple statistical models, and factor out the effect of lower-order distributions. We establish the universality and variability range of first-order strand symmetry, as well as of its higher-order extensions, and demonstrate the existence of genuine high-order symmetric constraints. We show that ubiquitous reverse-complement symmetry does not result from a single cause, such as point mutation or recombination, but rather emerges from the combined effects of a wide spectrum of mechanisms operating at multiple orders and length scales.
