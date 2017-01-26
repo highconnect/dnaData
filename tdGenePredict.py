@@ -17,6 +17,7 @@ import scipy
 import PIL
 import cPickle as pickle
 
+
 #from PIL import Image as ImagePIL
 from PIL import Image,ImageFont, ImageDraw
 os.environ['KERAS_BACKEND'] = 'theano'
